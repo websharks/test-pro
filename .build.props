@@ -1,0 +1,14 @@
+project_title                               = Test Pro
+
+project_owner                               = websharks
+project_slug                                = test-pro
+project_text_domain                         = test-pro
+project_slack_channel                       = sandbox
+
+project_namespace                           = WebSharks\\TestPro
+project_sub_namespace                       = TestPro
+
+project_version                             = %y%m%d.%now
+
+project_php_required_version                = 5.5
+project_php_tested_up_to_version            = ${php.version}
